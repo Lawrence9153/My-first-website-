@@ -254,4 +254,13 @@ footer {
   #projects article {
     padding: 24px;
   }
+  .profile-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #8b5cf6;
+  margin-bottom: 25px;
+  box-shadow: 0 0 40px rgba(139, 92, 246, 0.35);
+}
 }
